@@ -1,2 +1,2 @@
 # ML
-my ml projects
+My ML Projects
